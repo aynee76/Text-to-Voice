@@ -63,6 +63,7 @@ button:hover {
 @media (max-width: 640px) {
     main {
         padding: 20px;
+        margin: 1rem auto;
     }
 
     button {
